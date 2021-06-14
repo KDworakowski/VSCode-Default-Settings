@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#!/usr/bin/env bash
 
 rm -rfv "$HOME/.vscode"
 rm -rfv "$HOME/Library/Application Support/Code"
